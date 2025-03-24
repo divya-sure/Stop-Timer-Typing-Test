@@ -1,12 +1,3 @@
-// setTimeout(function(){
-//     console.log("hiii")
-// },5000);
-
-// let interval=setInterval(function(){
-//     console.log("hii")
-// },1000)
-// clearInterval(interval) 
-
 let startTimeEle=document.getElementById("startTime");
 let stopTimeEle=document.getElementById("stopTime");
 let resetTimeEle=document.getElementById("resetTime");
